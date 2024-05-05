@@ -72,7 +72,7 @@
 				</nav>
 				<!--third child-->
 				<div class="bg-light">
-					<h3 class="text-center">NAQUIMEN MILKTEA CORNER</h3>
+					<h3 class="text-center">NAQUIMEN SNACK STATION</h3>
 					<p class="text-center">Take a break and let the bubbles do the talking</p>
 				</div>
 
@@ -86,86 +86,148 @@
 						<div class="card">
   <img src="./images/Taro.png" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card 
-	title and make up the bulk of the card's content.</p>
+    <h5 class="card-title">MACHA</h5>
+    <p class="card-text">Matcha is a high-grade green tea ground into powdered form.</p>
     <a href="#" class="btn btn-info">Add to Cart <i class="fa-solid fa-cart-shopping"></i></a>
-	<a href="#" class="btn btn-secondary">View More</a>
+	<a href="#" class="btn btn-secondary">₱69.00</a>
   </div>
 </div>
 						</div>
-						<div class="col-md-4">
+						<div class="col-md-4 mb-2">
 						<div class="card">
   <img src="./images/Macha.png" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card 
-	title and make up the bulk of the card's content.</p>
+    <h5 class="card-title">Taro</h5>
+    <p class="card-text">Taro a tropical root crop grown primarily for its starchy corm or underground stem.</p>
     <a href="#" class="btn btn-info">Add to Cart <i class="fa-solid fa-cart-shopping"></i></a>
-	<a href="#" class="btn btn-secondary">View More</a>
+	<a href="#" class="btn btn-secondary">₱69.00</a>
   </div>
 </div>
 						</div>
-						<div class="col-md-4">
+						<div class="col-md-4 mb-2">
 						<div class="card">
   <img src="./images/Caramel.png" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card 
-	title and make up the bulk of the card's content.</p>
+    <h5 class="card-title">Caramel</h5>
+    <p class="card-text">Caramel is a sticky or runny sweet that's made from slightly burnt sugar.</p>
     <a href="#" class="btn btn-info">Add to Cart <i class="fa-solid fa-cart-shopping"></i></a>
-	<a href="#" class="btn btn-secondary">View More</a>
+	<a href="#" class="btn btn-secondary">₱69.00</a>
   </div>
 </div>
 					</div>
-						<div class="col-md-4">
+						<div class="col-md-4 mb-2">
 						<div class="card">
-  <img src="./images/Caramel.png" class="card-img-top" alt="...">
+  <img src="./images/C&C.png" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card 
-	title and make up the bulk of the card's content.</p>
+    <h5 class="card-title">Cookies & Cream</h5>
+    <p class="card-text">Cookies and Cream milk tea is a blend of smooth with a crunchy experience plus a hint of tea taste.</p>
     <a href="#" class="btn btn-info">Add to Cart <i class="fa-solid fa-cart-shopping"></i></a>
-	<a href="#" class="btn btn-secondary">View More</a>
+	<a href="#" class="btn btn-secondary">₱69.00</a>
   </div>
 </div>
 					</div>
-					<div class="col-md-4">
+					<div class="col-md-4 mb-2">
 						<div class="card">
-  <img src="./images/Caramel.png" class="card-img-top" alt="...">
+  <img src="./images/blue.png" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card 
-	title and make up the bulk of the card's content.</p>
+    <h5 class="card-title">Blue Coral</h5>
+    <p class="card-text">Our Blue Coral milk tea is refreshing drink with a gentle and distinct flavour and it is made with our signature blend.</p>
     <a href="#" class="btn btn-info">Add to Cart <i class="fa-solid fa-cart-shopping"></i></a>
-	<a href="#" class="btn btn-secondary">View More</a>
+	<a href="#" class="btn btn-secondary">₱69.00</a>
   </div>
 </div>
 				</div>
-				<div class="col-md-4">
+				<div class="col-md-4 mb-2">
 						<div class="card">
-  <img src="./images/Caramel.png" class="card-img-top" alt="...">
+  <img src="./images/strawberry.png" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card 
-	title and make up the bulk of the card's content.</p>
+    <h5 class="card-title">Strawberry</h5>
+    <p class="card-text">Strawberry Milk Tea is simply tea, milk, strawberries, and a little bit of sweetener.</p>
     <a href="#" class="btn btn-info">Add to Cart <i class="fa-solid fa-cart-shopping"></i></a>
-	<a href="#" class="btn btn-secondary">View More</a>
+	<a href="#" class="btn btn-secondary">₱69.00</a>
   </div>
 </div>
 			</div>
-			<div class="col-md-2">
-				<!-- sidenav --> 
-				<h1>Hey</h1>
-			</div>
 		</div>
+		</div>
+		<div class="col-md-2 bg-secondary p-0 text-center">
+			<ul class="navbar-nav me-auto">
+				<li class="nav-item bg-info">
+					<a href="#" class="nav-link text-light"><h4>Milk Tea Flavors</h4></a>
+				</li>
+				<li class="nav-item bg-info">
+					<a href="#" class="nav-link text-dark">Macha</a>
+				</li>
+				<li class="nav-item bg-info">
+					<a href="#" class="nav-link text-dark">Taro</a>
+				</li>
+				<li class="nav-item bg-info">
+					<a href="#" class="nav-link text-dark">Caramel</a>
+				</li>
+				<li class="nav-item bg-info">
+					<a href="#" class="nav-link text-dark">Cookies & Cream</a>
+				</li>
+				<li class="nav-item bg-info">
+					<a href="#" class="nav-link text-dark">Vanilla</a>
+				</li>
+				<li class="nav-item bg-info">
+					<a href="#" class="nav-link text-dark">Strawberry</a>
+				</li>
+			</ul>
+			<ul class="navbar-nav me-auto">
+				<li class="nav-item bg-info">
+					<a href="#" class="nav-link text-light"><h4>Other Snacks</h4></a>
+				</li>
+				<li class="nav-item bg-info">
+					<a href="#" class="nav-link text-dark">French Fries</a>
+				</li>
+				<li class="nav-item bg-info">
+					<a href="#" class="nav-link text-dark">Kikiam Ball</a>
+				</li>
+				<li class="nav-item bg-info">
+					<a href="#" class="nav-link text-dark">Fish Ball</a>
+				</li>
+				<li class="nav-item bg-info">
+					<a href="#" class="nav-link text-dark">Cheese Stick</a>
+				</li>
+				<li class="nav-item bg-info">
+					<a href="#" class="nav-link text-dark">Soft Drinks</a>
+				</li>
+				<li class="nav-item bg-info">
+					<a href="#" class="nav-link text-dark">Ham Burger</a>
+				</li>
+				<li class="nav-item bg-info">
+					<a href="#" class="nav-link text-dark">Pizza</a>
+				</li>
+			</ul>
+			<ul class="navbar-nav me-auto">
+				<li class="nav-item bg-info">
+					<a href="#" class="nav-link text-light"><h4>SHAWARMA</h4></a>
+				</li>
+				<li class="nav-item bg-info">
+					<a href="#" class="nav-link text-dark">Shawarma Regular</a>
+				</li>
+				<li class="nav-item bg-info">
+					<a href="#" class="nav-link text-dark">Shawarma Overload</a>
+				</li>
+				<li class="nav-item bg-info">
+					<a href="#" class="nav-link text-dark">Shawarma Rice</a>
+				</li>
+				<li class="nav-item bg-info">
+					<a href="#" class="nav-link text-dark">Shawarma Rice w/ Tea</a>
+				</li>
+			</ul>
+			
+		</div>
+	</div>
 
 
 
-		<!--last child-->
-		<!--div class="bg-info p-3 text-center">
+		<!--last child--> 
+		<div class="bg-info p-3 text-center">
 			<p> All rights Reserved ©- Jovan Palamara Naquimen-2024</p>
-		</div> -->
+		</div>
+			</div>
 	
 	
 
