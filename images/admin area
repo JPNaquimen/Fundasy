@@ -13,7 +13,14 @@
 		crossorigin="anonymous">
 
         <!--css file-->
-        <link rel="stylesheet" href="./styles.css" >
+        <link rel="stylesheet" href="../styles.css" >
+        <style>
+    .admin_image{
+    width:100%;
+    object-fit: contain;
+}
+</style>
+
 	</head>
 	<body>
             <!--navbar-->
@@ -25,7 +32,7 @@
                         <nav class="navbar navbar-expand-lg">
                             <ul class="navbar-nav">
                                 <li class="nav-item">
-                                    <a href="" class="nav-link">Welcome Guest</a>
+                                    <a href="" class="nav-link"><h3>Welcome Guest</h3></a>
                                 </li>
                             </ul>
 
@@ -34,6 +41,47 @@
                 </nav>
 
                 <!--second child-->
+                <div class="bg-secondary">
+                    <h3 class="text-center text-light p-2">Managing Details</h3>
+                </div>
+                <!--Third Child-->
+                <div class="row">
+                    <div class="col-md-12 bg-success p-1 d-flex align-items-upper">
+                        <div class="p-4">
+                            <a href="#"><img src="../images/blue.png" 
+                            alt="" class="admin_image"></a>
+                            <p class="text-light text-center">Admin Name</p>
+                        </div>
+                        <div class="button text-center">
+                            <button class="my-4"><a href="" class="nav-link text-light 
+                            bg-secondary my-2">Insert Products</a></button>
+                            <button><a href="" class="nav-link text-light 
+                            bg-secondary my-2">View Products</a></button>
+                            <button><a href="" class="nav-link text-light
+                            bg-secondary my-2">Insert Categories</a></button>
+                            <button><a href="" class="nav-link text-light 
+                            bg-secondary my-2">View Categories</a></button>
+                            <button><a href="" class="nav-link text-light 
+                            bg-secondary my-2">Insert Brands</a></button>
+                            <button><a href="" class="nav-link text-light 
+                            bg-secondary my-2">View Brands</a></button>
+                            <button><a href="" class="nav-link text-light 
+                            bg-secondary my-2">All Orders</a></button>
+                            <button><a href="" class="nav-link text-light 
+                            bg-secondary my-2">All Payments</a></button>
+                            <button><a href="" class="nav-link text-light 
+                            bg-secondary my-2">List Users</a></button>
+                            <button><a href="" class="nav-link text-light 
+                            bg-secondary my-2">LogOut</a></button>
+
+                        </div>
+                    </div>
+                </div>
+
+                <!--last child-->
+                <div class="bg-secondary p-3 text-center text-light footer">
+			<p> All rights Reserved ©- Jovan Palamara Naquimen-2024</p>
+		</div>
             </div>
 
 
